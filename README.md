@@ -21,3 +21,7 @@ Each NFT counts as one vote for each proposal
 Voter cannot vote multiple times on the same proposal with the same NFT
 
 If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed
+
+# website
+
+https://dao-cryptodev.vercel.app/
